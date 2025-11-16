@@ -47,12 +47,3 @@ This project demonstrates the integration of Dropbox Business APIs into the Clou
   "has_more": false
 }
 
-
-
-
-
-
-
-
-```http
-Authorization: Bearer <ACCESS_TOKEN>
